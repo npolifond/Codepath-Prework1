@@ -45,13 +45,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 All resources were found on the Prework instruction site. 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-A challenge that I overcame 
+
+Throughout this submission, I had a few challenges, the first one being color and font. When I read that, we were able to change particular aspects of the content. I got so excited and immediately went to generate a color palette to use. When I found the palette that best complemented the theme I had in mind, I was disappointed to find that I couldn't use them. I went to the CSS list and tried to make a palette based on the options available but ran into a problem with deeper shades that didn't compliment the lighter shade. So I decided to stick to the colors closer to the initially provided shades. Another issue I had was in the coding itself; I struggled to create logic for the game. I tried to apply my best knowledge to what I learned in Java, the best language I know. Still, I could not create the logic, so I ended up using the given code. This challenge, in particular, has taught me to start studying general concepts across other languages to learn how to apply and use them properly. My last challenge was in the syntax errors. I had a bad habit of misusing semicolons and colons. This habit hindered me in the CSS file when I got stumped because my buttons wouldn't change colors. To solve this problem, I went through my HTML and CSS file several times until I realized I used a semicolon instead of a comma.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
- How to add different types of visual features into code? 
+
+How to add different types of visual features into code? 
 How to improve the efficiency of each function used in the JavaScript file?
 How to gain access to more color options?
 What challenges would I have if I wanted to convert this into a mobile application?
@@ -62,6 +65,7 @@ How to add a splash screen?
 How could the program handle data if I wanted to create the ability to log in and keep users' scores?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 If I had more time to work on this project, there are a few things I would want to add. When I initially started, I had the idea to make it Holloween themed hence why I called it "Mystery of Colors." I want to change the background into some gif that would correlate with the theme. The button shape was another area I wanted to change. I had the idea of changing those into question marks that could bounce in an up and down motion. The sounds of the buttons would be altered into classic Halloween sounds. When it came to the gameplay itself, I wanted a time and scoreboard of who could complete the game the fastest. If I had more time, I would have attempted to have different game modes. In particular, I had two in mind; the first would be a dual player mode, where players could set the pattern and have the other player play the sequence. The second mode would have been more challenging with more visual distractions and sounds. Lastly, when players win, I wanted to find a way to throw confetti similar to Canva when you submit assignments. 
 
 
