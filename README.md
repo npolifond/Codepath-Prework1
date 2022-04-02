@@ -72,7 +72,7 @@ If I had more time to work on this project, there are a few things I would want 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://drive.google.com/file/d/1l9I0rKDJO4XR-9f2B4xVaTFFs-TE14gd/view https://www.loom.com/share/f3026fe413d54487849b519e6f39288c)
+[My 5-minute Interview Recording](https://www.loom.com/share/f3026fe413d54487849b519e6f39288c)
 
 
 ## License
