@@ -4,7 +4,7 @@
 
 Submitted by: Nehemie Polifond
 
-Time spent: 3 hours spent in total
+Time spent: 7 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/broad-artistic-ketchup
 
@@ -72,7 +72,7 @@ If I had more time to work on this project, there are a few things I would want 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://drive.google.com/file/d/1l9I0rKDJO4XR-9f2B4xVaTFFs-TE14gd/view https://www.loom.com/share/f3026fe413d54487849b519e6f39288c)
 
 
 ## License
